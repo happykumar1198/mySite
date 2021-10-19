@@ -1,0 +1,150 @@
+/* done */
+body{
+    width: 100%;
+    height: 100%;
+     margin: 0;
+}
+
+ a{ text-decoration: none;
+         background-color: transparent;
+          color:#ededed;
+   }
+ 
+   .header{
+    background-color:#000;
+     /* color:#fff;  */
+     border-color: #080808; 
+     min-height: 50px;
+      border: 1px solid transparent;
+       border-bottom: 1px solid;
+       } 
+
+.inner-header{
+    width:80%; 
+    margin:auto;
+    
+}
+
+.logo{
+    float: left; 
+    height: 50px;
+    color:dimgray;
+   
+}
+
+.header-link{
+    float:right; 
+    font-size:14px;
+     height: 50px;
+      padding: 15px 15px; 
+     font: size 20px;px;
+      font-weight: bold;
+}
+
+.content{
+    min-height: 600px;
+    }
+
+.banner-image{
+     padding-bottom: 50px;
+     margin-bottom: 20px; 
+     text-align: center; 
+     color: #f8f8f8; 
+     background: url('../assets/image/intro-bg_1.jpg') no-repeat center;
+      background-size: cover;
+}
+
+.inner-banner-image{
+    padding-top: 12%;
+     width:80%;
+      margin:auto;
+}
+
+.banner_content{
+    position: relative; 
+    padding-top: 6%;
+     padding-bottom: 6%; 
+    overflow:hidden;
+     margin-bottom: 12%; 
+    background-color: rgba(0, 0, 0, 0.7);
+     max-width: 660px;
+}
+
+.button{
+    color: #fff;
+     background-color: #c9302c; 
+     border-color: #ac2925; 
+     box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+      padding: 10px 16px;
+       font-size: 20px;
+        border-radius: 6px;
+}
+.container{
+    width:90%; 
+    margin:auto;
+     overflow:hidden;
+}
+
+.items{
+    width:30%;
+     display: block; 
+     padding: 4px;
+      margin-bottom: 20px;
+       line-height: 1.42857143;
+        background-color: #fff;
+         border: 1px solid #ddd;
+          border-radius: 4px; 
+          float:left;
+           margin-left:1%;
+}
+
+ .caption{
+    color:#000;
+     padding:0px 10px 10px;
+      font-weight: bold; 
+      text-align: center;
+ } 
+
+ .thumbnail{
+    display: block;
+     max-width: 100%;
+      height: auto;
+ } 
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: white;
+     color: black; 
+     font: size 16px;
+}
+
+.nav_head{
+    background-color: #333;
+    overflow: hidden;
+}
+.nav_head a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.nav_link{
+    float: right;
+    color: white;
+}
+
+
+
+    
+    
+    
